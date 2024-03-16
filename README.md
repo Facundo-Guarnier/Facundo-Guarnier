@@ -92,7 +92,7 @@
       </td>
       <td>
         <h3>🎓 To learn</h3>
-          <img src="https://img.shields.io/badge/-Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white" alt="Kotlin">
+          <img src="https://img.shields.io/badge/-Kotlin-C11DF0?style=flat-square&logo=Kotlin&logoColor=white" alt="Kotlin">
           <img src="https://img.shields.io/badge/-Godotengine-478CBF?style=flat-square&logo=Godotengine&logoColor=white" alt="Godotengine">
       </td>
     </tr>
