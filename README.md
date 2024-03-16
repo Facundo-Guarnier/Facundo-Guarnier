@@ -1,7 +1,7 @@
 <!-- Banner personalizado -->
 
 <div align="center">
-  <img src="URL_DE_TU_IMAGEN" alt="Banner Personalizado">
+  <img src="banner.png" alt="Banner Personalizado">
 </div>
 
 <!-- Encabezado -->
