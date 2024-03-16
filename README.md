@@ -6,7 +6,7 @@
 <!-- Banner personalizado -->
 
 <div align="center">
-  <img src="banner2.png" alt="Banner Personalizado">
+  <img src="banner.png" alt="Banner Personalizado">
 </div>
 
 
