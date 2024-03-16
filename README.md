@@ -20,7 +20,7 @@
 <!-- Tabla de habilidades -->
 
 # ⚡ Skills
-<div style="margin: 0 auto; width: fit-content;">
+<div align="center">
   <table>
     <tr>
       <td>
