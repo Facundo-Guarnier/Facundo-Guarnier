@@ -28,7 +28,6 @@
         <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" alt="Python">
         <img src="https://img.shields.io/badge/-Java-FF6F00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
         <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white" alt="TypeScript">
-        <img src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white" alt="SpringBoot">
       </td>
       <td>
         <h3>🌐 Frontend Development</h3>
@@ -41,6 +40,7 @@
       <td>
         <h3>🛠️ Framework</h3>
         <img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask">
+        <img src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white" alt="SpringBoot">
       </td>
       <td>
         <h3>🤖 AI</h3>
