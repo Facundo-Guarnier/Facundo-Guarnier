@@ -1,12 +1,14 @@
+<!-- Encabezado -->
+
+# Hi! 👋
+
+
 <!-- Banner personalizado -->
 
 <div align="center">
   <img src="banner.png" alt="Banner Personalizado">
 </div>
 
-<!-- Encabezado -->
-
-# Hi! 👋
 
 <!-- Estadísticas de GitHub -->
 
