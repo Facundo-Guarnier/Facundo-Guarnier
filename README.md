@@ -13,9 +13,12 @@
 <!-- Estadísticas de GitHub -->
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Facundo-Guarnier&count_private=true&show_icons=true" alt="Github Stats" style="height: 180px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Facundo-Guarnier&layout=compact" alt="Top Langs" style="height: 180px;">
+<!-- github_dark  -->
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Facundo-Guarnier&theme=github_dark  " style="height: 180px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Facundo-Guarnier&count_private=true&show_icons=true&theme=github_dark" alt="Github Stats" style="height: 180px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Facundo-Guarnier&layout=compact&theme=github_dark" alt="Top Langs" style="height: 180px;">
 </div>
+
 
 <!-- Tabla de habilidades -->
 
