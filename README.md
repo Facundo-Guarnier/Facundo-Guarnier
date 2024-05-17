@@ -1,26 +1,23 @@
-<!-- Encabezado -->
-
 # Hi! 👋
-
-
-<!-- Banner personalizado -->
-
 <div align="center">
-  <img src="banner.png" alt="Banner Personalizado">
+ <img src="banner.png" alt="Banner Personalizado">
 </div>
 
-
-<!-- Estadísticas de GitHub -->
-
+# 📈 GitHub Analytics
 <div align="center">
-<!-- github_dark  -->
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Facundo-Guarnier&theme=github_dark  " style="height: 180px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Facundo-Guarnier&count_private=true&show_icons=true&theme=github_dark" alt="Github Stats" style="height: 180px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Facundo-Guarnier&layout=compact&theme=github_dark" alt="Top Langs" style="height: 180px;">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Facundo-Guarnier&theme=algolia" 
+    alt="Profile Details"
+    style="height: 180px; border-radius: 20px;"
+  >
+  <img src="https://github-readme-stats.vercel.app/api?username=Facundo-Guarnier&count_private=true&show_icons=true&theme=algolia&border_color=050F2C" 
+    alt="Github Stats" 
+    style="height: 180px; border-radius: 20px;"
+  >
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Facundo-Guarnier&layout=compact&theme=algolia&border_color=050F2C" 
+    alt="Top Langs" 
+    style="height: 180px; border-radius: 20px;"
+  >
 </div>
-
-
-<!-- Tabla de habilidades -->
 
 # ⚡ Skills
 <div align="center">
@@ -99,4 +96,7 @@
           <img src="https://img.shields.io/badge/-Godotengine-478CBF?style=flat-square&logo=Godotengine&logoColor=white" alt="Godotengine">
       </td>
     </tr>
+  </table>
 </div>
+
+# 😊 Thanks for checking out my profile!
