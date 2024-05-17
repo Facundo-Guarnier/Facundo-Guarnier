@@ -1,6 +1,6 @@
 # Hi! 👋
 <div align="center">
- <img src="https://github.com/Facundo-Guarnier/Facundo-Guarnier/blob/95109fffd9366bcc4b339c7b0dbe90e1a6579afc/banner.png" alt="Banner Personalizado">
+ <img src="https://github.com/Facundo-Guarnier/Facundo-Guarnier/blob/main/banner.png" alt="Banner Personalizado">
 </div>
 
 # 📈 GitHub Analytics
