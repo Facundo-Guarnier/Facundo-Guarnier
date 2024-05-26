@@ -20,7 +20,7 @@
 </div>
 
 # ⚡ Skills
-<div align="center">
+<div>
   <table>
     <tr>
       <td>
@@ -94,6 +94,8 @@
         <h3>🎓 To learn</h3>
           <img src="https://img.shields.io/badge/-Kotlin-C11DF0?style=flat-square&logo=Kotlin&logoColor=white" alt="Kotlin">
           <img src="https://img.shields.io/badge/-Godotengine-478CBF?style=flat-square&logo=Godotengine&logoColor=white" alt="Godotengine">
+          <img src="https://img.shields.io/badge/-Terraform-4646b4?style=flat-square&logo=Terraform&logoColor=white" alt="Terraform">
+          <img src="https://img.shields.io/badge/-OpenTofu-e8c528?style=flat-square&logo=opentofu&logoColor=black" alt="opentofu">
       </td>
     </tr>
   </table>
