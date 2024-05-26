@@ -20,8 +20,8 @@
 </div>
 
 # ⚡ Skills
-<div style="text-align: center;">
-  <table style="display: flex; justify-content: center">
+<div align="center">
+  <table>
     <tr>
       <td>
         <h3>🖥️Programming Languages</h3>
