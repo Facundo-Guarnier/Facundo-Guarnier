@@ -21,7 +21,7 @@
 
 # ⚡ Skills
 <div>
-  <table>
+  <table style="display: flex; justify-content: center">
     <tr>
       <td>
         <h3>🖥️Programming Languages</h3>
