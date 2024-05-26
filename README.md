@@ -20,7 +20,7 @@
 </div>
 
 # ⚡ Skills
-<div>
+<div style="text-align: center;">
   <table style="display: flex; justify-content: center">
     <tr>
       <td>
