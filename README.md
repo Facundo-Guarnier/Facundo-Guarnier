@@ -41,6 +41,7 @@
         <h3>🛠️ Framework</h3>
         <img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask">
         <img src="https://img.shields.io/badge/-SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white" alt="SpringBoot">
+        <img src="https://img.shields.io/badge/-JHipster-5C3EE8?style=flat-square&logo=JHipster&logoColor=white" alt="JHipster">
       </td>
       <td>
         <h3>🤖 AI</h3>
