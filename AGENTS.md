@@ -30,3 +30,9 @@ GitHub profile repo — renders on the user's GitHub landing page. Name MUST sta
 
 Learning specific to THIS repo → document it HERE, versioned with the code.
 Useful in ANY project → belongs in the hub, ⊥ here.
+
+- `README.md` (English, the one GitHub shows) and `README.es.md` (Spanish) are the same page in two
+  languages with a language switch at the top. Edit BOTH together; ⊥ let one drift.
+- `banner.svg` is the live banner (editable text: the JSON panel is plain `<text>`). `banner.png` and
+  `banner_template/` are the old one, kept for reference.
+- Every claim in the README must be checkable (portfolio, repos, GitHub). ⊥ invent skills or numbers.
